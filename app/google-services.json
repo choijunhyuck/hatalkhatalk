@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "469140824465",
+    "firebase_url": "https://hatalkhatalk.firebaseio.com",
+    "project_id": "hatalkhatalk",
+    "storage_bucket": "hatalkhatalk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469140824465:android:7ce67c01869c35f8a4ba30",
+        "android_client_info": {
+          "package_name": "com.talktalk.hatalkhatalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469140824465-tak106lh2fdms08aj93dhc62lh75nggj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhySSpnu9YW4vxb9QU8POGN5lmNpnigqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469140824465-tak106lh2fdms08aj93dhc62lh75nggj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

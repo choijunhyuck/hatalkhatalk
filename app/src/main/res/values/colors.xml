@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E23461</color>
+    <color name="colorPrimaryDark">#e23461</color>
+    <color name="colorAccent">#e23461</color>
+
+    <color name="colorPrimarylight">#d36685</color>
+    <color name="colorPrimaryPrepare">#34e2b5</color>
+
+    <color name="colorChatBackground">#EDEDED</color>
+    <color name="colorChatText">#333333</color>
+
+    <color name="colorPrimaryTransparent">#4DE23461</color>
+    <color name="colorShadow">#B3333333</color>
+    <color name="colorWhiteTransparent">#D9FFFFFF</color>
+
+</resources>
